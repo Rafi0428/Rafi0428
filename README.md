@@ -1,10 +1,10 @@
 <div align="center">
 
-# Md Rafi Ahmed
+# 𝐌𝐝 𝐑𝐚𝐟𝐢 𝐀𝐡𝐦𝐞𝐝
 
-**Full-Stack Architect | AI Integration Specialist | Creative Developer**
+**𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 | 𝐀𝐈 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐨𝐧 𝐒𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐬𝐭 | 𝐂𝐫𝐞𝐚𝐭𝐢𝐯𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫**
 
-*"Engineering intelligent automation powered by deterministic logic and cinematic aesthetics."*
+*“𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐢𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐭 𝐚𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 𝐩𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐝𝐞𝐭𝐞𝐫𝐦𝐢𝐧𝐢𝐬𝐭𝐢𝐜 𝐥𝐨𝐠𝐢𝐜 𝐚𝐧𝐝 𝐜𝐢𝐧𝐞𝐦𝐚𝐭𝐢𝐜 𝐚𝐞𝐬𝐭𝐡𝐞𝐭𝐢𝐜𝐬.”*
 
 </div>
 ---
