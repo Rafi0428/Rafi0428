@@ -1,9 +1,12 @@
+<div align="center">
+
 # Md Rafi Ahmed
 
 **Full-Stack Architect | AI Integration Specialist | Creative Developer**
 
 *"Engineering intelligent automation powered by deterministic logic and cinematic aesthetics."*
 
+</div>
 ---
 
 ### 👨‍💻 About Me
