@@ -26,7 +26,7 @@ I bring a unique, multidisciplinary approach to software development. By merging
 
 #### ⚕️ Appointo (Doctor Portal) `[Live / Fully Developed]`
 * **Role:** Lead Architect & Full-Stack Developer
-* **Link:** [View Appointo Live](https://appointo-web-9rqf.vercel.app/)
+* **Link:** [View Appointo Live](https://frontend-blue-zeta-12.vercel.app)
 * **Overview:** A fully realized, secure, and high-performance web portal engineered to streamline patient-doctor interactions and manage medical data seamlessly. Designed with a custom, interactive UI tailored for accessibility, strict data security, and blazing-fast load times. 
 
 
