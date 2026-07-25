@@ -24,9 +24,9 @@ I bring a unique, multidisciplinary approach to software development. By merging
 ---
 ### 🛠️ The Toolkit
 
-* **Core Languages:** C, JavaScript, Python, HTML, CSS[cite: 3]
-* **Frameworks & Tools:** FastAPI, Playwright, Git, GitHub, Gemini API[cite: 3]
-* **Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA)[cite: 3], Full-Stack Architecture, Hardware Integration
+* **Core Languages:** C, JavaScript, Python, HTML, CSS
+* **Frameworks & Tools:** FastAPI, Playwright, Git, GitHub, Gemini API
+* **Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Full-Stack Architecture, Hardware Integration
 
 ---
 
