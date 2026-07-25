@@ -1,5 +1,6 @@
-![MD Rafi Ahmed Banner](./MD%20RAFI%20AHMED_20260713_113114_0000.png)
-
+<p align="center">
+  <img src="./MD%20RAFI%20AHMED_20260713_113114_0000.png" alt="MD Rafi Ahmed Banner">
+</p>
 <div align="center">
 
 # 𝐌𝐝 𝐑𝐚𝐟𝐢 𝐀𝐡𝐦𝐞𝐝
