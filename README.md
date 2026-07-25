@@ -1,4 +1,3 @@
-![Uploading MD RAFI AHMED_20260713_113114_0000.png…]()
 <div align="center">
 
 # 𝐌𝐝 𝐑𝐚𝐟𝐢 𝐀𝐡𝐦𝐞𝐝
