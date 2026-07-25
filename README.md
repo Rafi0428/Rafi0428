@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./MD%20RAFI%20AHMED_20260726_001949_0000.png" alt="MD Rafi Ahmed Banner">
+  <img src="./MD%20RAFI%20AHMED_20260726_003238_0000.png" alt="MD Rafi Ahmed Banner">
 </p>
 <div align="center">
 
