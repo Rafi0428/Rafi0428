@@ -72,7 +72,7 @@ I bring a unique, multidisciplinary approach to software development. By merging
 Always open to discussing full-stack web development, intelligent automation, core computer science concepts, or the next hackathon build[cite: 3].
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdrafiahmed0137@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-rafi-2b2b303a9/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-rafi-ahmed-2b2b303a9/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919836534034)
 
 📄 **[Download my full Resume here](#)** *(Link to be updated)*
