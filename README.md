@@ -1,4 +1,4 @@
-![MD Rafi Ahmed Banner](./MD%20RAFI%20AHMED_20260713_113114_0000.jpg)
+![MD Rafi Ahmed Banner](./MD%20RAFI%20AHMED_20260713_113114_0000.png)
 
 <div align="center">
 
