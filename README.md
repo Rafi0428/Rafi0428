@@ -75,4 +75,4 @@ Always open to discussing full-stack web development, intelligent automation, co
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-rafi-ahmed-2b2b303a9/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919836534034)
 
-📄 **[Download my full Resume here](#)** *(./Md_Rafi_Ahmed_Resume_Updated.pdf)*
+📄 **[Download my full Resume here](#)** *(Md_Rafi_Ahmed_Resume_Updated.pdf)*
