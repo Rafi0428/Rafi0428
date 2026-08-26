@@ -17,23 +17,34 @@
 
 I am a driven B.Tech Computer Science and Engineering student specializing in full-stack architecture, intelligent automation tools, and AI-driven platforms. Evolving from foundational software engineering, my current focus is on crafting modern, high-contrast interactive UI/UX and building deterministic, highly scalable backend architectures.
 
-I bring a unique, multidisciplinary approach to software development. By merging rigorous technical execution with cinematic visual storytelling and digital art (under my creative alias *rafi.visuals07*), I ensure that the platforms I build are not only architecturally sound but visually immersive. Whether I am troubleshooting complex logic in Prolog, managing memory allocation in C, or designing a front-end interface, I apply a highly disciplined, optimization-first mindset to every line of code.
+I bring a unique, multidisciplinary approach to software development. By merging rigorous technical execution with cinematic visual storytelling and digital art (under my creative alias *rafi.visuals07*), I ensure that the platforms I build are not only architecturally sound but visually immersive. Whether I am architecting serverless PostgreSQL databases, integrating generative AI logic, or designing a front-end interface, I apply a highly disciplined, optimization-first mindset to every line of code.
 
 * 🎓 Pursuing B.Tech in CSE at JIS College of Engineering.
-* 💻 Core Stack: HTML/CSS, C, C++ (Arduino), Prolog, and advanced logic frameworks.
+* 💻 Core Stack: Node.js, Express, PostgreSQL, JavaScript, C, HTML/CSS.
 * 🎨 Creative Edge: Fusing technical precision with moody, high-contrast digital aesthetics.
 * ⚙️ Development Philosophy: Bridging the gap between robust, secure backend architecture and seamless, premium user experiences.
 
 ---
 ### 🛠️ The Toolkit
 
-* **Core Languages:** C, JavaScript, Python, HTML, CSS
-* **Frameworks & Tools:** FastAPI, Playwright, Git, GitHub, Gemini API
-* **Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Full-Stack Architecture, Hardware Integration
+* **Core Languages:** JavaScript, C, Python, HTML, CSS
+* **Backend & Databases:** Node.js, Express.js, PostgreSQL (Neon Serverless), RESTful APIs
+* **Frameworks & Tools:** Google Gemini API, FastAPI, Playwright, Git, GitHub
+* **Concepts:** Full-Stack Architecture, Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), JWT Authentication, Role-Based Access Control (RBAC)
 
 ---
 
 ### 🚀 Featured Projects
+
+#### 🌅 New Dawn Companion (Learning Management System) `[Live / Fully Developed]`
+* **Role:** Lead Full-Stack Architect & AI Integration Specialist
+* **Link:** [View New Dawn Live](https://new-dawn-companion.vercel.app)
+* **Overview:** A comprehensive, full-stack Learning Management System (LMS) designed with a fully dynamic CMS landing page and a highly secure student examination environment.
+* **Key Contributions:**
+  * **AI Quiz Generation:** Integrated the Google Gemini 3.5 Flash API to parse raw, unstructured text files into automated, incrementally numbered sets of 25-question quizzes.
+  * **Robust Database Architecture:** Engineered a relational database using Neon Serverless PostgreSQL to handle dynamic class hierarchies, study material hosting, and a centralized teacher gradebook.
+  * **Secure Exam Environment:** Built strict anti-cheat mechanisms for live exams, including tab-switch auto-submission, disabled keyboard shortcuts, and real-time progress tracking.
+  * **Dynamic CMS:** Developed a fully editable backend portal for administrators to manage live educators, toppers, pricing plans, and FAQs instantly on the public frontend.
 
 #### ⚕️ Appointo (Doctor Portal) `[Live / Fully Developed]`
 * **Role:** Lead Architect & Full-Stack Developer
@@ -51,9 +62,6 @@ I bring a unique, multidisciplinary approach to software development. By merging
 #### 📦 Local Binary Inventory Engine `[Backend / Pure C]`
 * **Role:** Systems Developer
 * **Overview:** A lightweight, highly optimized inventory management engine written in pure C. Engineered to execute fast CRUD (Create, Read, Update, Delete) operations directly on local binary data files (`.dat`), ensuring persistent storage without external database overhead.
-* **Key Contributions:**
-  * Designed a scalable `struct`-based data architecture for dynamic record updates and efficient sequential searches.
-  * Implemented strict memory management and robust file pointer validation to safely handle edge cases and prevent null-reference segmentation faults.
 
 #### ✨ Interactive Thank You Generator `[Live]`
 * **Role:** UI/UX Architect & Front-End Developer
@@ -63,10 +71,6 @@ I bring a unique, multidisciplinary approach to software development. By merging
 #### 🌐 WebPilot `[In Development]`
 * **Role:** Full-Stack Developer
 * **Overview:** Contributing to an autonomous web agent framework designed to assist users via smart assistant interfaces and advanced browser automation. 
-* **Key Contributions:**
-  * **Interface Architecture:** Engineered a responsive, custom split-screen smart assistant interface to enhance accessibility and user interaction.
-  * **Automation Logic:** Implemented robust backend logic to facilitate deterministic data parsing and autonomous task execution.
-  * **Scalability:** Optimized real-time query processing workflows to ensure low-latency performance during complex web interactions.
 
 ---
 
