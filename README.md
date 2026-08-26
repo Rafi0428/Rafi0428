@@ -84,4 +84,4 @@ Always open to discussing full-stack web development, intelligent automation, co
 
 ---
 ### 📄 Resume
-[Download / View My Resume Here](./Md_Rafi_Ahmed_Resume_Updated.pdf)
+[Download / View My Resume Here](./Md_Rafi_Ahmed_Resume.pdf)
